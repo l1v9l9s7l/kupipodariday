@@ -1,8 +1,8 @@
 {
   "name": "kupipodariday",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "Backend for kupipodariday project",
+  "author": "l1v9l9s7l",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
